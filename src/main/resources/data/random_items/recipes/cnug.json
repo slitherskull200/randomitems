@@ -1,0 +1,16 @@
+{
+  "group": "random_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "random_items:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "random_items:copper_nugget",
+    "count": 9
+  }
+}

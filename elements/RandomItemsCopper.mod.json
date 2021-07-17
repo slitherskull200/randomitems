@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Random Items Copper",
+    "icon": {
+      "value": "CUSTOM:CopperSword"
+    },
+    "showSearch": false
+  }
+}

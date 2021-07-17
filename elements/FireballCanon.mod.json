@@ -1,0 +1,40 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "fireballcannon",
+    "customModelName": "Normal",
+    "name": "Fireball Cannon",
+    "specialInfo": [
+      "Allows shooting of fireballs as if a bow",
+      "use this to shoot them."
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Randomitemsmisc"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.FIRE_CHARGE"
+    },
+    "shootConstantly": false,
+    "usageCount": 500,
+    "actionSound": {
+      "value": "entity.blaze.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 20.0,
+    "bulletDamage": 50.0,
+    "bulletKnockback": 1,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "Items.FIRE_CHARGE"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

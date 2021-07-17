@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "random_items:blocks/stonetop",
+    "up": "random_items:blocks/stonetop",
+    "north": "random_items:blocks/copperore",
+    "east": "random_items:blocks/copperore",
+    "south": "random_items:blocks/copperore",
+    "west": "random_items:blocks/copperore",
+    "particle": "random_items:blocks/stonetop"
+  }
+}

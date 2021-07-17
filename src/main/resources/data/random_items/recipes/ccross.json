@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "random_items:copper_bow"
+  },
+  "addition": {
+    "item": "random_items:copper_ingot"
+  },
+  "result": {
+    "item": "random_items:copper_crossbow"
+  }
+}

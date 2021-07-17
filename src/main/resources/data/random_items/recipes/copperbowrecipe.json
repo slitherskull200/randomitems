@@ -1,0 +1,42 @@
+{
+  "group": "random_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "random_items:copper_nugget"
+    },
+    "1": {
+      "item": "random_items:copper_ingot"
+    },
+    "2": {
+      "item": "random_items:copper_nugget"
+    },
+    "3": {
+      "item": "random_items:copper_ingot"
+    },
+    "4": {
+      "item": "minecraft:bow"
+    },
+    "5": {
+      "item": "random_items:copper_ingot"
+    },
+    "6": {
+      "item": "random_items:copper_nugget"
+    },
+    "7": {
+      "item": "random_items:copper_ingot"
+    },
+    "8": {
+      "item": "random_items:copper_nugget"
+    }
+  },
+  "result": {
+    "item": "random_items:copper_bow",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "random_items",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "random_items:copper_ingot"
+    },
+    "1": {
+      "item": "minecraft:fire_charge"
+    },
+    "2": {
+      "item": "random_items:copper_ingot"
+    },
+    "3": {
+      "item": "minecraft:blaze_rod"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "random_items:copper_crossbow"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "random_items:fireball_canon",
+    "count": 1
+  }
+}
